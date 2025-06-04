@@ -1,10 +1,10 @@
-# 🚀 Projeto de Engenharia de Dados
+#  Projeto de Dados
 
 Este projeto demonstra um pipeline de dados simples, desenvolvido com foco nas principais etapas de um fluxo de dados: geração, ingestão, processamento, armazenamento e análise.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas Utilizadas
+##  Tecnologias e Ferramentas Utilizadas
 - Python
 - Pandas
 - SQL (PostgreSQL simulado)
@@ -13,7 +13,7 @@ Este projeto demonstra um pipeline de dados simples, desenvolvido com foco nas p
 
 ---
 
-## 🗺️ Descrição do Projeto
+##  Descrição do Projeto
 
 O projeto simula um fluxo de dados completo, com as seguintes etapas:
 
@@ -24,7 +24,7 @@ O projeto simula um fluxo de dados completo, com as seguintes etapas:
 
 ---
 
-## 💻 Como Executar
+##  Como Executar
 
 1. Clone o repositório:
 ```bash
