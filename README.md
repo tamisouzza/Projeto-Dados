@@ -1,26 +1,32 @@
-# Projeto de Dado
+# 🚀 Projeto de Engenharia de Dados
 
-## 📊 Descrição
-Projeto desenvolvido como demonstração. Este pipeline simula a geração, transformação e análise de dados de vendas.
+Este projeto demonstra um pipeline de dados simples, desenvolvido com foco nas principais etapas de um fluxo de dados: geração, ingestão, processamento, armazenamento e análise.
 
-## 🚀 Tecnologias utilizadas
+---
+
+## 🛠️ Tecnologias e Ferramentas Utilizadas
 - Python
 - Pandas
-- SQL (simulado com Pandas)
-- Apache Spark
+- SQL (PostgreSQL simulado)
+- Apache Spark (conceitual no projeto)
+- Git e GitHub
 
-## 🏗️ Pipeline de Dados
-1. **Geração de Dados:** Criação de um dataset fictício de vendas (`gerar_dados.py`).
-2. **Transformação e Análise:** Processamento dos dados com agrupamentos e cálculos (`transformar_dados.py`).
-3. **Processamento Distribuído:** Simulação de um pipeline em larga escala usando Spark (`spark_pipeline.py`).
+---
 
-## 📂 Como executar este projeto
+## 🗺️ Descrição do Projeto
 
-### Passo 1: Instalar dependências
+O projeto simula um fluxo de dados completo, com as seguintes etapas:
 
-Crie um ambiente virtual e ative:
+1. **Geração de Dados:** Criação de dados fictícios representando uma base de vendas (clientes, produtos e transações).
+2. **Processamento e Transformação:** Limpeza, transformação e preparação dos dados para análise, utilizando Python e bibliotecas de dados.
+3. **Armazenamento:** Dados processados armazenados em formato estruturado, simulando um banco relacional (PostgreSQL).
+4. **Análise de Dados:** Consultas SQL para gerar insights e análises exploratórias.
 
+---
+
+## 💻 Como Executar
+
+1. Clone o repositório:
 ```bash
-python -m venv venv
-# Ativar no Windows:
-.\venv\Scripts\activate
+git clone https://github.com/tamisouzza/projeto-dados.git
+

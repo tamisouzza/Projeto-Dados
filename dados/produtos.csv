@@ -1,0 +1,4 @@
+id_produto,nome_produto,categoria,preco_unitario
+101,Produto A,Categoria 1,10.0
+102,Produto B,Categoria 2,20.5
+103,Produto C,,15.0

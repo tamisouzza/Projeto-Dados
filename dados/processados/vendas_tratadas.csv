@@ -1,0 +1,4 @@
+id_venda,id_cliente,id_produto,quantidade,nome,email,nome_produto,categoria,preco_unitario,valor_total
+1001,1,101,2,Ana Silva,ana@email.com,Produto A,Categoria 1,10.0,20.0
+1002,2,103,1,Bruno Costa,bruno@email.com,Produto C,Não Informado,15.0,15.0
+1003,1,102,5,Ana Silva,ana@email.com,Produto B,Categoria 2,20.5,102.5

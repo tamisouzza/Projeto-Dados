@@ -1,0 +1,4 @@
+id_venda,id_cliente,id_produto,quantidade
+1001,1,101,2
+1002,2,103,1
+1003,1,102,5
