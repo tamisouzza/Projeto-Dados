@@ -27,12 +27,10 @@ O projeto simula um fluxo de dados completo, com as seguintes etapas:
 ##  Como Executar
 
 1. Clone o repositório:
-```bash
 
 
 ##  Como Executar
 
 1. Clone o repositório:
-```bash
 git clone https://github.com/tamisouzza/projeto-dados.git
 
